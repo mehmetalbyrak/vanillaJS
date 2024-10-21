@@ -8,7 +8,7 @@ Bu proje, Vanilla JS (saf JavaScript) kullanılarak dinamik web bileşenleri olu
 - **Dinamik Kart Ekleme**: Kullanıcı tarafından form üzerinden girilen başlık ve içerikle sayfaya dinamik olarak kartlar ekler.
 - **Button Click**: Bir butona tıkladığınızda bir paragrafın rengini değiştirir.
 - **Fetch API**: API'den veri çeker ve sayfada bir liste halinde gösterir.
-- **Hover Etkileşimi**: Bir div üzerine fare ile gelindiğinde arka plan rengini değiştirir.
+- **Hover Etkileşimi**: Bir div üzerine mouse ile gelindiğinde arka plan rengini değiştirir.
 - **Form Doğrulama**: Formda zorunlu alan boş bırakıldığında kullanıcıyı uyarır ve formun gönderilmesini engeller.
 
 ## **Dosya Yapısı**
@@ -55,7 +55,7 @@ Projeyi başlattıktan sonra aşağıdaki etkileşimleri test edebilirsiniz:
    - Sayfanın altında, API'den alınan ilk 5 gönderiyi bir liste olarak görebilirsiniz.
    
 4. **Hover Etkileşimi (medium.html)**:
-   - Kırmızı bir kutunun üzerine fare ile gelerek rengi yeşile dönüştürün.
+   - Kırmızı bir kutunun üzerine mouse ile gelerek rengi yeşile dönüştürün.
    
 5. **Form Doğrulama (medium.html)**:
    - Formda "Adınız" alanını boş bıraktığınızda, formun gönderilmesi engellenecektir ve uyarı mesajı gözükecektir.
