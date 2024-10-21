@@ -1,0 +1,79 @@
+/* Genel gövde stili */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+  margin: 0;
+}
+
+/* Başlık stili */
+h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Buton ve Paragraf stili */
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+p {
+  color: #333;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+/* Liste stili */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  background-color: #eaeaea;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+/* Hover Etkileşimi */
+#hoverDiv {
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+
+/* Form Stili */
+form {
+  margin-top: 20px;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button[type="submit"] {
+  padding: 10px 15px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #218838;
+}
